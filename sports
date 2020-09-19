@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/live/crystal/12345/94780.m3u8
+#EXTINF:-1,IN : STAR SPORTS 1 HD 1080 H.264
+http://randomserver.site:2086/live/crystal/12345/94781.m3u8
+#EXTINF:-1,IN : STAR SPORTS 2 HD
+http://randomserver.site:2086/live/crystal/12345/94784.m3u8
+#EXTINF:-1,IN : STAR SPORTS 2 HD 1080 H.264
+http://randomserver.site:2086/live/crystal/12345/94785.m3u8
+#EXTINF:-1,IN : STAR SPORTS HINDI 1 HD
+http://randomserver.site:2086/live/crystal/12345/94788.m3u8
+#EXTINF:-1,IN : STAR SPORTS SELECT 1 HD
+http://randomserver.site:2086/live/crystal/12345/94789.m3u8
+#EXTINF:-1,IN : STAR SPORTS SELECT 2 HD
+http://randomserver.site:2086/live/crystal/12345/94790.m3u8
+#EXTINF:-1,IN : TEN 1 HD 
+http://randomserver.site:2086/live/crystal/12345/91817.m3u8
+#EXTINF:-1,IN : TEN 2 HD 
+http://randomserver.site:2086/live/crystal/12345/91816.m3u8
+#EXTINF:-1,IN : TEN SPORTS 
+http://randomserver.site:2086/live/crystal/12345/91814.m3u8
+#EXTINF:-1,IN : TEN SPORTS PK
+http://randomserver.site:2086/live/crystal/12345/94989.m3u8
+#EXTINF:-1,IN : WILLOW CRICKET HD
+http://randomserver.site:2086/live/crystal/12345/94797.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="Cricket",Star Sports 1
+http://randomserver.site:2086/wayne/1234/94780
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="Cricket",Star Sports 1
+http://randomserver.site:2086/wayne/1234/94781
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="Cricket",Star Sports 2
+http://randomserver.site:2086/wayne/1234/94784
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="Cricket",Star Sports 2
+http://randomserver.site:2086/wayne/1234/94785
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Hindi" tvg-logo="" group-title="Cricket",Star Sports Hindi
+http://randomserver.site:2086/wayne/1234/94788
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1" tvg-logo="" group-title="Cricket",Star Sports Select 1
+http://randomserver.site:2086/wayne/1234/94789
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2" tvg-logo="" group-title="Cricket",Star Sports Select 2
+http://randomserver.site:2086/wayne/1234/94790
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket" tvg-logo="" group-title="Cricket",Willow Cricket
+http://randomserver.site:2086/crystal/12345/15502?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket Hd" tvg-logo="" group-title="Cricket",Willow Cricket Hd
+http://randomserver.site:2086/live/Bria/Bria/94797.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Xtra Hd" tvg-logo="" group-title="Cricket",Willow Xtra Hd
+http://66.northerniptv.ca:8000/live/george/george123/9630.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HD 1080 50FPS H.264
+http://randomserver.site:2086/live/Bria/Bria/94780.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HD 1080 H.264
+http://randomserver.site:2086/live/crystal/12345/94781.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HD 1080 H.264
+http://randomserver.site:2086/live/Bria/Bria/94781.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 1 HINDI
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/68.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 2 HD
+http://randomserver.site:2086/live/crystal/12345/94784.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 2 HD
+http://randomserver.site:2086/live/Bria/Bria/94784.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 2 HD 1080 H.264
+http://randomserver.site:2086/live/crystal/12345/94785.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS 2 HD 1080 H.264
+http://randomserver.site:2086/live/Bria/Bria/94785.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS HINDI 1 HD
+http://randomserver.site:2086/live/crystal/12345/94788.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS HINDI 1 HD
+http://randomserver.site:2086/live/Bria/Bria/94788.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS SELECT 1 HD
+http://randomserver.site:2086/live/Bria/Bria/94789.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS SELECT 1 HD
+http://randomserver.site:2086/live/crystal/12345/94789.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS SELECT 2 HD
+http://randomserver.site:2086/live/Bria/Bria/94790.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS SELECT 2 HD
+http://randomserver.site:2086/live/crystal/12345/94790.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS TAMIL 1
+http://randomserver.site:2086/live/Bria/Bria/94792.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Sport",STAR SPORTS TAMIL 1
+http://randomserver.site:2086/live/crystal/12345/94792.m3u8?checkedby:iptvfun.blogspot.com
+#EXTINF:-1 tvg-id="155" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
+http://iptv.mirrorace.net/?channelid=155 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",TITAS SPORTS [BD]
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.dishurdu.com/images/PK-Sports-Logo.png" group-title="SPORTS",PK Sports HD
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 1 HD
+https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 1 (1)
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (2)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (3)
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 2 HD
+https://load.airtel.tv/sonyten2hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="SPORTS",Sony Ten 2 (1)
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 (2)
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 (3)
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 3 HD
+https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="SPORTS",Sony Ten 3 (1)
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 (2)
+http://103.205.133.19/hls/ten3.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 (3)
+http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX (1)
+http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX (2)
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX HD
+http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (1)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (2)
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports Hindi HD
+http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (1)
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (2)
+http://103.205.133.14/hls/chss2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (1)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (2)
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/media_w699043435_1648.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (1)
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (3)
+http://87.117.234.107:1935/live/StarSportsSelect2FHD/media_w699043435_1648.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png ",BEIN SPORT HD 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png",BEIN SPORT EXTRA
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:-1 tvg-logo="https://www.geosuper.tv/assets/front/img/live_banner.jpg" group-title="SPORTS",Geo Super
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",FOX SPORT 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",FOX SPORT 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="SPORTS",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="SPORTS",Real Betis TV
+http://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="SPORTS",Bayern Munich TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="SPORTS",Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="SPORTS",GOLTV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="SPORTS",Euro Sports 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="SPORTS",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORTS",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SPORTS",Bek Sports East
+http://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SPORTS",Bek Sports West
+http://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="SPORTS",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS",Olympic Channel [HD]
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpssJvp.png" group-title="SPORTS",Olympic Channel [UHD]
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="SPORTS",Rai Sport
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="SPORTS",RTV Sports
+http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0cjjyk.jpg" group-title="SPORTS",Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="SPORTS",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv.live
